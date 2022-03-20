@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tablas/static/css/main.3fa5bbcb.css",
+    "main.js": "/Tablas/static/js/main.91890e13.js",
+    "index.html": "/Tablas/index.html",
+    "main.3fa5bbcb.css.map": "/Tablas/static/css/main.3fa5bbcb.css.map",
+    "main.91890e13.js.map": "/Tablas/static/js/main.91890e13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa5bbcb.css",
+    "static/js/main.91890e13.js"
+  ]
+}
