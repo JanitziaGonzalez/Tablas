@@ -5,7 +5,7 @@ export const TablaApp = () => {
   const [prodcutos, setProductos] = useState([])
 
     const fetchData = () => {
-      fetch("http://scratchya.com.ar/react/datos.php")
+      fetch("https://scratchya.com.ar/react/datos.php")
         .then(response => {
           return response.json()
         })
